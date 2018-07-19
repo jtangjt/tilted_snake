@@ -1,2 +1,2 @@
 # tilted_snake
-snake for beaglebone controlled with inclinometre
+snake for beaglebone controlled with inclinometer
